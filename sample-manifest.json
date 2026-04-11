@@ -1,0 +1,12 @@
+{
+  "export_job_id": "8fbea654-2001-477e-8c97-ad01974a1f41",
+  "id_short": 208407,
+  "published_at": "2026-04-11T07:07:20Z",
+  "repo_name": "all-restaurants-in-detroit-michigan-us-sample-208407",
+  "sample_asset_name": "beamstation_208407_restaurants-us-mi_SAMPLE_DIST.csv",
+  "sample_b2_path": "b2-export:BeamStation-ExportFiles/208407/beamstation_208407_restaurants-us-mi_SAMPLE_DIST.csv",
+  "sample_records": 196,
+  "sample_sha256": "a204bc428b4e64aedad57235f026c46474cb5bc26147309852ae809ced370d2f",
+  "sample_size_bytes": 672301,
+  "total_records": 1965
+}
